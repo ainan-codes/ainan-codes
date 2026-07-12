@@ -13,14 +13,14 @@
 
 ## About Me
 
-I'm a **Full-Stack Engineer & AI Automation Expert** who turns ideas into shipped, scalable products — from HTML/CSS/JS to Python, C, and C++.
+I'm a **Full-Stack Engineer & AI Automation Expert** who turns ideas into shipped, scalable products.
 
 - I design **end-to-end AI automations** with **n8n**, **Make.com**, and custom **Python** pipelines
 - I build & ship **SaaS products** front to back, then deploy to the cloud
 - I deploy anywhere — **Vercel, Netlify, AWS, Azure, GCP**
 - I love connecting **APIs, LLMs, and data** into workflows that run on their own
 - Ask me about **automation, AI agents, lead-generation pipelines, and full-stack SaaS**
-- Reach me at **your-email@example.com**
+- Reach me at **mohammedainan3@gmail.com**
 
 <br/>
 
