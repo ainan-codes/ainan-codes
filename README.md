@@ -2,7 +2,7 @@
 
 <!-- ===== TYPING HEADER (edit the lines= text below) ===== -->
 <a href="https://github.com/ainan-codes">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=0000&center=true&vCenter=true&width=700&height=55&lines=Hi%2C+I'm+Mohammed+Ainan;AI+Automation+Expert+%26+Full-Stack+Engineer" alt="header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=white&center=true&vCenter=true&width=700&height=55&lines=Hi%2C+I'm+Mohammed+Ainan;AI+Automation+Expert+%26+Full-Stack+Engineer" alt="header" />
 </a>
 
 <h3>Building SaaS products and AI automations that run themselves</h3>
