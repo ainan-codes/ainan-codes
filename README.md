@@ -2,19 +2,19 @@
 
 <img src="./banner.gif" width="100%" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=27&pause=1200&color=B08BBB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mohammed+Ainan;Full-Stack+Engineer+%7C+AI+Automation+Architect;Building+Autonomous+AI+Systems;Turning+Ideas+Into+Shipped+Products;Python+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Docker+%E2%80%A2+GCP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=27&pause=1200&color=B08BBB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mohammed+Ainan;Full-Stack+Engineer+%7C+Automation+Architect;Building+High-Performance+Distributed+Systems;Cloud+Automation+%26+Scalable+Web+Engines;Turning+Ideas+Into+Shipped+Products;Python+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Docker+%E2%80%A2+GCP" alt="Typing SVG" />
 
 </div>
 
 ### About Me
 
-- 🚀 **Full-Stack Engineer & AI Automation Architect**
-- 🤖 Passionate about **Autonomous AI Agents, Multi-Agent Systems & Cloud Automation**
-- 🛠️ I build **production web applications and scalable AI pipelines** using React, Next.js, TypeScript, Node.js & Python
-- ⚡ Specializing in **24/7 background daemons, browser automation (Playwright), and self-healing systems**
+- 🚀 **Full-Stack Engineer & Automation Architect**
+- ⚙️ Passionate about **Distributed Systems, Cloud Infrastructure & Automation**
+- 🛠️ I build **production web applications and scalable event-driven systems** using React, Next.js, TypeScript, Node.js & Python
+- ⚡ Specializing in **24/7 background daemons, browser automation (Playwright), and self-healing pipelines**
 - ☁️ Cloud deployments across **Google Cloud Platform (GCP), Docker, AWS, Vercel & Linux**
 - 🎯 Turning ideas into **real, shipped products** — from microservices to full-stack SaaS
-- 📈 Currently leveling up in **System Design, Distributed Architectures & LLM Engineering**
+- 📈 Currently leveling up in **System Design, High-Performance Computing & Distributed Architectures**
 - 💬 Reach me at **[mohammedainan3@gmail.com](mailto:mohammedainan3@gmail.com)**
 
 <br>
@@ -47,8 +47,8 @@
 | Project | Stack | Highlights |
 |---|---|---|
 | **[XAutomation](https://github.com/ainan-codes/xautomation)** | TypeScript · Docker · GCP · Node.js · Playwright · FFmpeg | 24/7 autonomous social media intelligence & multi-account scheduling engine with 4K faststart media transcoding |
-| **DevForge AI** | React · Node.js · Express · Gemini · Multi-Agent | Autonomous AI software engineering team that plans, builds, reviews, and refines software through specialized agent loops |
-| **Symptomwise** | Next.js · TypeScript · Tailwind · Clinical LLMs | Intelligent medical diagnostic reasoning assistant powered by clinical NLP triage and differential symptom analysis |
+| **DevForge Platform** | React · Node.js · Express · Distributed Services | Autonomous developer workflow and continuous release automation platform |
+| **Symptomwise Health** | Next.js · TypeScript · Tailwind · PostgreSQL | Clinical diagnostic reasoning platform with differential triage and automated pathology analytics |
 | **Reels Automation Hub** | Python · Faststart · FFmpeg · Cloud Storage | Automated short-form media curation, dynamic audio transcoding, and scheduled multi-platform publishing |
 | **GradeFlow** | React · Node.js · PostgreSQL · Prisma | Modern educational workflow automation and grading analytics system with granular audit trails |
 
@@ -59,8 +59,8 @@
 ### GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ainan-codes&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainan-codes&layout=compact&theme=radical&hide_border=true" width="35%" />
+<img src="./github-stats.svg" width="49%" alt="GitHub Stats" />
+<img src="./top-langs.svg" width="37%" alt="Top Languages" />
 </div>
 
 <br>
