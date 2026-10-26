@@ -8,14 +8,14 @@
 
 ### About Me
 
-- 🚀 **Full-Stack Engineer & Automation Architect**
-- ⚙️ Passionate about **Distributed Systems, Cloud Infrastructure & Automation**
-- 🛠️ I build **production web applications and scalable event-driven systems** using React, Next.js, TypeScript, Node.js & Python
-- ⚡ Specializing in **24/7 background daemons, browser automation (Playwright), and self-healing pipelines**
-- ☁️ Cloud deployments across **Google Cloud Platform (GCP), Docker, AWS, Vercel & Linux**
-- 🎯 Turning ideas into **real, shipped products** — from microservices to full-stack SaaS
-- 📈 Currently leveling up in **System Design, High-Performance Computing & Distributed Architectures**
-- 💬 Reach me at **[mohammedainan3@gmail.com](mailto:mohammedainan3@gmail.com)**
+- **Full-Stack Engineer & Automation Architect**
+- Passionate about **Distributed Systems, Cloud Infrastructure & Automation**
+- I build **production web applications and scalable event-driven systems** using React, Next.js, TypeScript, Node.js & Python
+- Specializing in **24/7 background daemons, browser automation (Playwright), and self-healing pipelines**
+- Cloud deployments across **Google Cloud Platform (GCP), Docker, AWS, Vercel & Linux**
+- Turning ideas into **real, shipped products** — from microservices to full-stack SaaS
+- Currently leveling up in **System Design, High-Performance Computing & Distributed Architectures**
+- Reach me at **[mohammedainan3@gmail.com](mailto:mohammedainan3@gmail.com)**
 
 <br>
 
