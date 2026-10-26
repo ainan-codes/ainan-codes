@@ -35,14 +35,8 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,figma,linux,bash,nginx,vercel,netlify&theme=dark" alt="tools" />
 
-<br/><br/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/Make.com-6D28D9?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
-<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
-<img src="https://img.shields.io/badge/GoHighLevel-1877F2?style=for-the-badge&logo=rocket&logoColor=white" alt="GoHighLevel" />
-<img src="https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="Meta" />
-<img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads" />
-<img src="https://img.shields.io/badge/WATI_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WATI" />
+<br/>
+<img src="./automations.svg" alt="Automation & Growth Tools" />
 
 </div>
 
